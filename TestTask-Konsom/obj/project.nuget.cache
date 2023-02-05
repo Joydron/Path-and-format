@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "04dNkad6JD1n1IMwCohCs2p8ZYcdvP2vn9nDj0RRBvFxRxyZDNLD/GExj6gQAjjiydYrFLtfJSldnwVE0uFdow==",
+  "success": true,
+  "projectFilePath": "D:\\Codes VS\\13 Test Task\\TestTask-Konsom\\TestTask-Konsom\\TestTask-Konsom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\houro\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\houro\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\houro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
